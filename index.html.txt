@@ -1,17 +1,17 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bon anniversaire Bilal !</title>
+    <title>Happy Birthday Bilal!</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="container">
-        <h1>Joyeux Anniversaire, Bilal ! 🎉</h1>
-        <p>Salut Bilal, je voulais te souhaiter un joyeux anniversaire pour tes 23 ans ! 🎂🎁</p>
-        <p>Je suis Amal, et je suis tellement heureuse de partager ce moment spécial avec toi, même à distance.</p>
-        <button id="greetingButton">Clique ici pour une surprise !</button>
+        <h1>Happy Birthday, Bilal! 🎉</h1>
+        <p>Hey Bilal, I just wanted to wish you a very happy 23rd birthday! 🎂🎁</p>
+        <p>I'm Amal, and I'm so glad to share this special moment with you, even from a distance.</p>
+        <button id="greetingButton">Click here for a surprise!</button>
     </div>
     <script src="script.js"></script>
 </body>
