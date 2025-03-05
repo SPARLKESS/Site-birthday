@@ -1,64 +1,18 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Happy Birthday, My Love!</title>
-  <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bon anniversaire Bilal !</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header>
-    <h1>Happy Birthday, [Boyfriend's Name]!</h1>
-    <p>A special birthday surprise for you!</p>
-  </header>
-
-  <section class="intro">
-    <h2>Your Love Story</h2>
-    <p>Here’s how it all began...</p>
-    <div class="timeline">
-      <div class="event">
-        <h3>Our First Meeting</h3>
-        <p>It all started on [Date]...</p>
-      </div>
-      <div class="event">
-        <h3>Our First Date</h3>
-        <p>Remember our first date at [Place]?</p>
-      </div>
-      <div class="event">
-        <h3>First Video Call</h3>
-        <p>We couldn’t stop smiling during our first video call!</p>
-      </div>
+    <div class="container">
+        <h1>Joyeux Anniversaire, Bilal ! 🎉</h1>
+        <p>Salut Bilal, je voulais te souhaiter un joyeux anniversaire pour tes 23 ans ! 🎂🎁</p>
+        <p>Je suis Amal, et je suis tellement heureuse de partager ce moment spécial avec toi, même à distance.</p>
+        <button id="greetingButton">Clique ici pour une surprise !</button>
     </div>
-  </section>
-
-  <section class="memories">
-    <h2>Memories Together</h2>
-    <p>Here are some of our favorite memories...</p>
-    <div class="images">
-      <img src="image1.jpg" alt="Memory 1">
-      <img src="image2.jpg" alt="Memory 2">
-      <img src="image3.jpg" alt="Memory 3">
-    </div>
-  </section>
-
-  <section class="birthday-message">
-    <h2>My Birthday Message</h2>
-    <p>[Your personalized birthday message here]</p>
-    <audio controls>
-      <source src="birthday_message.mp3" type="audio/mp3">
-      Your browser does not support the audio element.
-    </audio>
-  </section>
-
-  <section class="countdown">
-    <h2>Countdown to Our Next Meeting</h2>
-    <div id="countdown"></div>
-  </section>
-
-  <footer>
-    <p>With all my love, [Your Name]</p>
-  </footer>
-
-  <script src="script.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>
